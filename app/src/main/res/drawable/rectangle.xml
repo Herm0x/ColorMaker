@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Name: William Phung -->
+<!-- CWID: 886287374 -->
+<!-- Email: willism1769@csu.fullerton.edu -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="0dp" />
+    <stroke
+        android:color="#000000"
+        android:width="2dp" />
+</shape>
